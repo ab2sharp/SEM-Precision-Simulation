@@ -8,7 +8,7 @@ The file `semRB_functions.R` contains the functions that you need to run the sim
 
 The file `simpara__semRB_(nobs-p-iters).R` contains the code for running the simulation itself. 
 
-The file `semRB_simulation.sh` contains all of parameter specifications used in the simulation to create the boxplots.
+The file `semRB_simulation.sh` contains all of the parameter specifications used in the simulation to create the boxplots.
 
 The file `rbboxplots_tx.eps` contains the plotted results. 
 
